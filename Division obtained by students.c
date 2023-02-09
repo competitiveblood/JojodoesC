@@ -16,7 +16,7 @@ int main()
       if (per>=40)
         printf("Third division");
       else
-        printf("Fail\n");
+        printf("Study harder brother\n");
     }
    
   }
