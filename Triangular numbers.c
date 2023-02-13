@@ -16,4 +16,5 @@ if(i==n)
 {
 printf("the number is not triangular");
 }
+return 0;
 }
