@@ -10,7 +10,6 @@ if(c==n)
 {
 printf("the number is triangular");
 break;
-
 }
 if(i==n)
 {
