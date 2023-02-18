@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 
-int main() {
+int main() 
+
+{
     char s[100]; // assuming the maximum size of the string is 100
     int m, n, countO = 0, maxCount = 0;
     scanf("%s%d", s, &m);
