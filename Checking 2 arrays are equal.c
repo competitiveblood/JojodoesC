@@ -2,7 +2,8 @@
 
 #define ARRAY_SIZE 5
 
-int main() {
+int main()
+{
   int array1[ARRAY_SIZE] = {1, 2, 3, 4, 5};
   int array2[ARRAY_SIZE] = {1, 2, 3, 4, 5};
   int i, equal;
