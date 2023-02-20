@@ -22,3 +22,5 @@ int main()
   } else {
     printf("The arrays are not equal.\n");
   }
+return 0;
+}
