@@ -42,4 +42,4 @@ void connect(struct TreeNode* root) {
     }
     
     free(queue);
-}
+
