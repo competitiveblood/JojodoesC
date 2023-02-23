@@ -30,3 +30,6 @@ int main() {
     else {
         printf("Element found at index %d.", result);
     }
+    
+    return 0;
+
