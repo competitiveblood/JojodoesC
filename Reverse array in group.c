@@ -34,6 +34,12 @@ int main() {
     }
     printf("\n");
     
+    return 0;
+    
+    
+    
+    
+    
     reverseInGroups(arr, n, k);
     
     printf("Reversed array in groups of %d: ", k);
