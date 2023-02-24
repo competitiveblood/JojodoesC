@@ -33,12 +33,7 @@ int main() {
         printf("%d ", arr[i]);
     }
     printf("\n");
-    
-    return 0;
-    
-    
-    
-    
+  
     
     reverseInGroups(arr, n, k);
     
@@ -47,4 +42,5 @@ int main() {
         printf("%d ", arr[i]);
     }
     printf("\n");
+    return 0;
     
