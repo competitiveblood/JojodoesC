@@ -17,5 +17,5 @@ int main() {
     }
     printf("Sum of even terms: %d\n", sum);
     return 0;
-}
+
 
