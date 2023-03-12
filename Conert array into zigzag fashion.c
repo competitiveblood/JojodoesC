@@ -1,4 +1,5 @@
 void zigzag(int arr[], int n) {
+    
     int i, temp;
     bool flag = true; // flag is used to indicate whether the next element should be greater or lesser
 
